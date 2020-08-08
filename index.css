@@ -1,0 +1,25 @@
+@font-face {
+    font-family: suissnord;
+    src: url("./fonts/Suissnord.otf") format("opentype");
+}
+
+body{
+    margin: auto;   
+}
+
+.container {
+    max-width: 500px;
+    align-items: center;
+    margin: auto;
+}
+
+.logo{
+    margin-top: 20vh;
+}
+
+.muyPronto {
+    margin-top: 20vh;
+    text-align: center;
+    font-size: 50px;
+    font-family: suissnord;
+}
